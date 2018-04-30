@@ -1,7 +1,7 @@
 # Windows Defender
 Windows Defender - Allow the OPIOID Wallet
 
-## You should add `opioid-qt.exe` to Windows Defender
+## You should add `opioid-qt.exe` as an exclusion in Windows Defender
 ### Locate where you have downloaded and/or extracted the .zip files.
 * Note: Check your downloads folder
 
