@@ -1,6 +1,8 @@
 # Windows Defender
 Windows Defender - Allow the OPIOID Wallet
 
+Many times, Windows protection will detect an .exe file as a virus. Please see below on assistance. AS ALWAYS, scan your computer with a reputible virus program.
+
 ## You should add `opioid-qt.exe` as an exclusion in Windows Defender
 ### Locate where you have downloaded and/or extracted the .zip files.
 * Note: Check your downloads folder
